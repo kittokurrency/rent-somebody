@@ -1,0 +1,6 @@
+{
+  "name": "Rent-Somebody — On-Demand Chores & Errands Marketplace",
+  "description": "Rent-Somebody connects people who want to save time with people who got time. Delegate daily chores, caretaker plants, run errands, and hire top-ranked vetted helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
